@@ -41,24 +41,24 @@ You can get started with Helio by cloning the repository and setting up your env
 
 Installation Process
 
-# 1. Clone the repository
+1. Clone the repository
 git clone https://github.com/your-username/helio-ai-therapy.git
 
-# 2. Navigate into the project directory
+2. Navigate into the project directory
 cd helio-ai-therapy
 
-# 3. Install required Python packages
+3. Install required Python packages
 pip install -r requirements.txt
 
-# IMPORTANT:
-# Add your API keys (GEMINI_API_KEY, ELEVENLABS_API_KEY, etc.) 
-# in the config.py file before proceeding.
+IMPORTANT:
+Add your API keys (GEMINI_API_KEY, ELEVENLABS_API_KEY, etc.) 
+in the config.py file before proceeding.
 
-# 4. Run the application
+4. Run the application
 python main.py
 
 
-#### *📁 Project Structure*
+📁 Project Structure
 
 ```
 helio-ai-therapy/
