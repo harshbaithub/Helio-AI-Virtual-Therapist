@@ -41,7 +41,6 @@ You can get started with Helio by cloning the repository and setting up your env
 
 Installation Process
 
-bash
 # 1. Clone the repository
 git clone https://github.com/your-username/helio-ai-therapy.git
 
