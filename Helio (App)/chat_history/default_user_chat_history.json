@@ -1,0 +1,198 @@
+{
+  "chat_history": [
+    {
+      "text": "DISCLAIMER: Not a substitute for professional services",
+      "is_user": false,
+      "timestamp": "2025-04-20 20:20:15",
+      "personality": "Therapist"
+    },
+    {
+      "text": "Hello! Select a mode and let's chat",
+      "is_user": false,
+      "timestamp": "2025-04-20 20:20:15",
+      "personality": "Therapist"
+    },
+    {
+      "text": "\u092e\u0940\u091f\u093f\u0902\u0917 \u092e\u0947\u0902 \u0915\u094d\u0932\u093f\u092a\u0964",
+      "is_user": true,
+      "timestamp": "2025-04-20 20:20:16",
+      "personality": null
+    },
+    {
+      "text": "\u092e\u0940\u091f\u093f\u0902\u0917 \u092e\u0947\u0902\u0964",
+      "is_user": true,
+      "timestamp": "2025-04-20 20:20:16",
+      "personality": null
+    },
+    {
+      "text": "I understand you're looking for a clip for a meeting. To help me find the right one, could you tell me what kind of meeting it is and what you want the clip to convey?\n",
+      "is_user": false,
+      "timestamp": "2025-04-20 20:20:17",
+      "personality": "Therapist"
+    },
+    {
+      "text": "I understand you're in a meeting. Is there anything I can help you with discreetly while you're there, or would you like to chat later?\n",
+      "is_user": false,
+      "timestamp": "2025-04-20 20:20:18",
+      "personality": "Therapist"
+    },
+    {
+      "text": "DISCLAIMER: Not a substitute for professional services",
+      "is_user": false,
+      "timestamp": "2025-04-20 20:21:01",
+      "personality": "Therapist"
+    },
+    {
+      "text": "Hello! Select a mode and let's chat",
+      "is_user": false,
+      "timestamp": "2025-04-20 20:21:01",
+      "personality": "Therapist"
+    },
+    {
+      "text": "DISCLAIMER: Not a substitute for professional services",
+      "is_user": false,
+      "timestamp": "2025-11-30 23:13:33",
+      "personality": "Therapist"
+    },
+    {
+      "text": "Hello! Select a mode and let's chat",
+      "is_user": false,
+      "timestamp": "2025-11-30 23:13:33",
+      "personality": "Therapist"
+    },
+    {
+      "text": "hello",
+      "is_user": true,
+      "timestamp": "2025-11-30 23:13:53",
+      "personality": null
+    },
+    {
+      "text": "I'm having trouble understanding. Could you rephrase that?",
+      "is_user": false,
+      "timestamp": "2025-11-30 23:13:54",
+      "personality": "Therapist"
+    }
+  ],
+  "depression_scores": [
+    {
+      "timestamp": "2025-04-20 09:27:53",
+      "score": 0.0
+    },
+    {
+      "timestamp": "2025-04-20 09:28:14",
+      "score": 0.0
+    },
+    {
+      "timestamp": "2025-04-20 09:28:46",
+      "score": 0.0
+    },
+    {
+      "timestamp": "2025-04-20 09:29:01",
+      "score": 0.0
+    },
+    {
+      "timestamp": "2025-04-20 09:29:39",
+      "score": 0.0
+    },
+    {
+      "timestamp": "2025-04-20 09:30:00",
+      "score": 0.0
+    },
+    {
+      "timestamp": "2025-04-20 09:30:07",
+      "score": 0.0
+    },
+    {
+      "timestamp": "2025-04-20 09:30:29",
+      "score": 0.0
+    },
+    {
+      "timestamp": "2025-04-20 09:30:54",
+      "score": 0.0
+    },
+    {
+      "timestamp": "2025-04-20 09:31:10",
+      "score": 0.0
+    },
+    {
+      "timestamp": "2025-04-20 09:31:40",
+      "score": 0.0
+    },
+    {
+      "timestamp": "2025-04-20 09:43:09",
+      "score": 0.0
+    },
+    {
+      "timestamp": "2025-04-20 09:48:03",
+      "score": 0.0
+    },
+    {
+      "timestamp": "2025-04-20 09:49:33",
+      "score": 1.0
+    },
+    {
+      "timestamp": "2025-04-20 11:40:38",
+      "score": 1.0
+    },
+    {
+      "timestamp": "2025-04-20 12:08:49",
+      "score": 1.6
+    },
+    {
+      "timestamp": "2025-04-20 12:09:28",
+      "score": 1.3333333333333333
+    },
+    {
+      "timestamp": "2025-04-20 20:14:39",
+      "score": 1.3333333333333333
+    },
+    {
+      "timestamp": "2025-04-20 20:14:57",
+      "score": 1.3333333333333333
+    },
+    {
+      "timestamp": "2025-04-20 20:15:15",
+      "score": 1.3333333333333333
+    },
+    {
+      "timestamp": "2025-04-20 20:17:02",
+      "score": 1.7142857142857142
+    },
+    {
+      "timestamp": "2025-04-20 20:17:44",
+      "score": 1.5
+    },
+    {
+      "timestamp": "2025-04-20 20:18:53",
+      "score": 0.0
+    },
+    {
+      "timestamp": "2025-04-20 20:19:14",
+      "score": 0.0
+    },
+    {
+      "timestamp": "2025-04-20 20:19:47",
+      "score": 0.0
+    },
+    {
+      "timestamp": "2025-04-20 20:20:16",
+      "score": 0.0
+    },
+    {
+      "timestamp": "2025-04-20 20:20:16",
+      "score": 0.0
+    },
+    {
+      "timestamp": "2025-04-20 20:21:01",
+      "score": 0.0
+    },
+    {
+      "timestamp": "2025-11-30 23:13:33",
+      "score": 0.0
+    },
+    {
+      "timestamp": "2025-11-30 23:13:53",
+      "score": 0.0
+    }
+  ]
+}
