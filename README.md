@@ -23,11 +23,11 @@ Helio is an AI Therapy Assistant built using Python and Tkinter for a native des
 
 | Category | Technology | Purpose |
 
-| Backend/Core | Python 3+ | Main application logic |
-| Large Language Model | Google Gemini API (2.0-Flash-Exp) | Conversational AI and intelligence |
-| Frontend/UI | Tkinter, ttkbootstrap | Native desktop application GUI and modern theme styling |
-| Voice & Speech | ElevenLabs API, speech_recognition (Google Cloud) | Text-to-Speech synthesis and Voice Input |
-| Data & Analytics | Matplotlib, json | Historical data storage and visualization of emotional trends |
+1.Backend/Core-Python 3+,Main application logic 
+2.Large Language Model-Google Gemini API (2.0-Flash-Exp), Conversational AI and intelligence 
+3.Frontend/UI-Tkinter and ttkbootstrap,Native desktop application GUI and modern theme styling 
+4.Voice & Speech- ElevenLabs API and speech_recognition (Google Cloud), Text-to-Speech synthesis and Voice Input 
+5.Data & Analytics- Matplotlib and json, Historical data storage and visualization of emotional trends 
 
 🤝 Why Choose Helio?
 
